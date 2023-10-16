@@ -81,6 +81,7 @@ object ActivityTransitionAnimation {
             Direction.DEFAULT -> Direction.DEFAULT
             Direction.NONE -> Direction.NONE
             Direction.DIALOG_EXIT -> Direction.DIALOG_EXIT
+            //my first open source contribution
         }
     }
 }
